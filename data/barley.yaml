@@ -1,0 +1,5 @@
+train: train_imgs_local.txt
+val: val_imgs_local.txt
+test: test_imgs_local.txt
+nc: 1
+names: [ 'barley' ]
